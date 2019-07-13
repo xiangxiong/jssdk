@@ -1,5 +1,10 @@
 ### JavaScript SDK设计指南
 
+- 可供参考的设计: 
+- https://github.com/leancloud/javascript-sdk
+- https://leancloud.cn/docs/leanstorage_guide-js.html
+- https://leancloud.cn/docs/sdk_setup-js.html 
+
 本文介绍如何对开发 JavaScript 网页应用设计SDK，适用于桌面端，移动端，不同平台，不同浏览器。对于JavaScript实现的非网页应用（硬件，嵌入式，node/io js）场景则不适用，这些场景会在未来介绍。由于我没有找到比较好的 JavaScript SDK文档，所以把我的个人经验做了整理和记录。JavaScript-SDK-设计 不仅仅介绍SDK，还包括用户和浏览器的关系。写的越多，想的越多，就开始关注不同平台，不同浏览器之间的性能和差异.
 
 什么是SDK ?
