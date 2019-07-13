@@ -2,7 +2,7 @@
 module.exports = [
   {
     name: 'index',
-    html: 'home/index.html',
-    jsEntry: 'home/index.js'
+    html: 'libs/index.html',
+    jsEntry: 'libs/index.js'
   }
 ]

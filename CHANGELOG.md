@@ -9,11 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.0.1] - 2019-07-13
 ### Added
-
+- 初始化项目.
 
 ### Changed
-
-
+- 
 
 ### Removed
-- Section about "changelog" vs "CHANGELOG".
+- 
